@@ -1,6 +1,6 @@
 function App() {
 
-  const handleClick = () => console.log(document.getElementById('testDiv').innerText) // You may be fetching some service with .innerText and anyone can edit for one-time
+  const handleClick = () => console.log(document.getElementById('testDiv').innerText) // You may fetching some service with .innerText and anyone can edit for one-time
 
   return (
     <>
