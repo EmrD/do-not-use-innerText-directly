@@ -1,4 +1,4 @@
-# Do Not Use .innerText Directly!
+# Do Not Use .innerText Directly
 
 This is a test repository to show the security issues of the usage for .innerText property to make some requests to backend or somewhere. You can test on your local environment by cloning this repository.
 
